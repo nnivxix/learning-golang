@@ -1,3 +1,3 @@
-[golang](./golang.jpg)
+![golang](./golang.jpg)
 
 # Golang
