@@ -2,6 +2,8 @@
 
 # Golang
 
+[Slide](https://docs.google.com/presentation/d/1J0DbqyuLQVnGnkbL7bX3jL6iQc6RdXy8zQkfH8rbE0Q/edit?slide=id.p#slide=id.p)
+
 ## Commands
 
 1. Build
